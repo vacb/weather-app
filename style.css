@@ -42,3 +42,7 @@ body {
 .degree-section h2 {
     font-size: 40px;
 }
+
+.temp-description {
+    text-transform: capitalize;
+}
