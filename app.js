@@ -9,6 +9,6 @@ window.addEventListener('load', () => {
             lat = position.coords.latitude;
         })
     } else {
-        h1.textContent = "Location required "
+        h1.textContent = "Location required for correct app function"
     }
 });
