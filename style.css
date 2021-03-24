@@ -20,6 +20,7 @@ body {
     height: 30vh;
     width: 50%;
     display: flex;
+    flex-direction: column;
     justify-content: space-around;
     align-items: center;
 }
@@ -32,11 +33,12 @@ body {
     display: flex;
     align-items: center;
     cursor: pointer;
+    font-size: 30px;
 }
 
 .degree-section span {
     margin: 10px;
-    font-size: 30px;
+    
 }
 
 .degree-section h2 {
