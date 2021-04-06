@@ -2,6 +2,7 @@
 
 Based on the following tutorial:
 https://www.youtube.com/watch?v=wPElVpR1rwA&t=42s
+
 This was, however, based on Dark Sky API which is no longer available, so I have modified the project to use the OpenWeather API instead.
 
 ## OpenWeather API
